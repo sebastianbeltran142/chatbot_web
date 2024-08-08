@@ -59,7 +59,7 @@ Para seguir y reproducir esta presentación, se necesitan los siguientes requisi
 
 2. **Instalar dependencias:**
    ```sh
-   pip install -r requirements.txt
+   pip install flask random nltk keras pickle numpy os pandas keras
 
 
 3. **Demostración en video YouTube:**
